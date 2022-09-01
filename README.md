@@ -13,7 +13,7 @@
   - **jj@heff.tv** (Business)
 - 👀 I’m interested in Data Engineering, Systems Engineering, Digital Design and more! 
 
-### 💻: My Tech Stack Experience
+### 💻 My Tech Stack Experience
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
