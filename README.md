@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I am JJ Heffernan! 
+<h1>Hi, I am JJ Heffernan!</h1>
 </div>
  
 <hr/>
@@ -55,7 +55,7 @@
  
 <!-- [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/) -->
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjheffernan/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjheffernan/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jheffmedia/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jheffmedia@gmail.com)
  
 </div>
