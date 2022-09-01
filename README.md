@@ -72,4 +72,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+icons:
+https://github.com/devicons/devicon/tree/master/icons
+
 --->
