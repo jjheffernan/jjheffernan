@@ -5,7 +5,7 @@
 <hr/>
 
 ### About Me:
-- ⚙️ Bachelors degree in mechanical engineering, certified EiT.
+- ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022.
 - 🔭 I’m currently working at Zip Code Wilmington
 - 🌱 I’m currently learning Django, PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, Python, PostgreSQL
 - 📫 How to reach me: 
