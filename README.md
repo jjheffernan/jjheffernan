@@ -9,8 +9,8 @@
 - 🔭 I’m currently working at Heff TV, LLC
 - 🌱 I’m currently learning PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL
 - 📫 How to reach me: 
-  - **jheffmedia@gmail.com** (Personal)
-  - **jj@heff.tv** (Business)
+  - **[jheffmedia@gmail.com](mailto:jheffmedia@gmail.com)** (Personal)
+  - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
 - 👀 I’m interested in Data Engineering, Systems Engineering, Digital Design and more! 
 
 ### 💻 My Tech Stack Experience
