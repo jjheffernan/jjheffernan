@@ -6,8 +6,8 @@
 
 ### About Me:
 - ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022.
-- 🔭 I’m currently working at Zip Code Wilmington
-- 🌱 I’m currently learning Django, PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, Python, PostgreSQL
+- 🔭 I’m currently working at Heff TV, LLC
+- 🌱 I’m currently learning PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL
 - 📫 How to reach me: 
   - **jheffmedia@gmail.com** (Personal)
   - **jj@heff.tv** (Business)
