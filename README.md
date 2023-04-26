@@ -7,23 +7,33 @@
 ### About Me:
 - ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022.
 - 🔭 I’m currently working at Heff TV, LLC
-- 🌱 I’m currently learning PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL
+- 🌱 I’m currently learning NextJS, React, TailwindCSS, and ThreeJS <!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL -->
 - 📫 How to reach me: 
   - **[jheffmedia@gmail.com](mailto:jheffmedia@gmail.com)** (Personal)
   - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
-- 👀 I’m interested in Data Engineering, Systems Engineering, Digital Design and more! 
+- 👀 I’m interested in Systems Engineering, Software Development, Mechanical Design and more! 
 
-### 💻 My Tech Stack Experience
-#### Front End Frameworks
+<details open>
+ <summary>
+  
+  ## 💻 My Tech Stack Experience
+ 
+ </summary>
+ <br>
+ 
+ #### Front End Technologies
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55"/>
  </p>
  
 #### Back End Frameworks
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
  </p>
  
 #### Data Engineering Tech.
@@ -38,14 +48,32 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
  </p>
+
+<details>
+ <summary> 
+  
+  ## 🛠️ Mechanical Engineering Experience
+  
+ </summary>
+ <br>
  
-#### Microcontrollers & Systems Development
+ <!-- #### Mechanical Design Software
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
+ </p>
+ --> 
+ 
+ #### Microcontrollers & Systems Development
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
  </p>
+</details>
  
+  
+</details>
 <!--  ### :file_folder: Fullstack Projects:
  <div align="center">
 <p align="center">
