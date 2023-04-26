@@ -14,17 +14,19 @@
 - 👀 I’m interested in Data Engineering, Systems Engineering, Digital Design and more! 
 
 ### 💻 My Tech Stack Experience
-## Front End Frameworks
+#### Front End Frameworks
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
  </p>
-## Back End Frameworks
+ 
+#### Back End Frameworks
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
  </p>
-## Data Engineering Tech.
+ 
+#### Data Engineering Tech.
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
@@ -36,7 +38,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
  </p>
-## Microcontrollers & Systems Development
+ 
+#### Microcontrollers & Systems Development
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
