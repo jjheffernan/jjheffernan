@@ -7,7 +7,7 @@
 ### About Me:
 - ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022.
 - 🔭 I’m currently working at Heff TV, LLC
-- 🌱 I’m currently learning NextJS, React, TailwindCSS, and ThreeJS <!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL -->
+- 🌱 I’m currently learning NextJS, React, TailwindCSS, and ThreeJS (through R3F)<!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL -->
 - 📫 How to reach me: 
   - **[jheffmedia@gmail.com](mailto:jheffmedia@gmail.com)** (Personal)
   - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
