@@ -45,6 +45,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55"/>
  </p>
+</details>
 
 <details>
  <summary> 
@@ -83,7 +84,7 @@
  </p>
  --> 
   
-</details>
+
 <!--  ### :file_folder: Fullstack Projects:
  <div align="center">
 <p align="center">
