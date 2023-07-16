@@ -130,6 +130,7 @@
  [![image](https://img.shields.io/github/followers/jjheffernan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jjheffernan/)
 
 </div>
+
 <!---
 jjheffernan/jjheffernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
