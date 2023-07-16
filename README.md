@@ -128,13 +128,12 @@
 
  ### :chart_with_upwards_trend: My Github stats:
  <div align="center">
- 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjheffernan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) 
+  
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=jjheffernan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjheffernan&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjheffernan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
- 
  </div>
 <h3>:iphone: Connect with me:</h3>
 <div align="center">
