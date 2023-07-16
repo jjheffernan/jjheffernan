@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I am JJ Heffernan!</h1>
+<h1>Welcome to JJ's Github Page!</h1>
 </div>
  
 <hr/>
@@ -11,12 +11,38 @@
 - 📫 How to reach me: 
   - **[jheffmedia@gmail.com](mailto:jheffmedia@gmail.com)** (Personal)
   - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
-- 👀 I’m interested in Systems Engineering, Software Development, Mechanical Design and more! 
+- 👀 I’m interested in Systems Engineering, Software Development, Mechanical Design and more!
+<!--  
+<details>
+ <summary> 
+  
+ # Project Directory </summary>
+ What are you looking for?
+ 
+ #### 📁 Full Stack Projects
+ <div align="center">
+  
+  [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://auto.heff.world/)
+  [Github Project link](add here when good enough to showcase]()
+  
+  [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://www.heff.tv/)
+  [Github Project link](add when no longer private)
+  
+ </div> 
 
+ #### 🤝 Contributions:
+ 
+ <div align="center">
+  
+  add companies/projects here
+  
+ </div> 
+ </details>
+-->
 <details open>
  <summary>
   
-  ## 💻 My Tech Stack Experience
+  ## 💻 Tech Stack Experience
  
  </summary>
  <br>
@@ -46,7 +72,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55"/>
  </p>
 </details>
-
 <details>
  <summary> 
   
@@ -65,50 +90,42 @@
  <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
+ ADD SOLIDWORKS 
+ ADD INVENTOR
+ ADD FUSION360
+ ADD ONSHAPE
  </p>
  --> 
+ 
  #### Microcontrollers & Systems Development
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+ <!-- add rust: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/> -->
  </p>
 </details>
 
- <!--
- #### Game Development
+<!-- <details>
+ <summary> 
+ 
+  ## 🎮 Game Development and Open Source 
+ </summary>
+ 
  <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
  </p>
- --> 
   
+ #### Game Development
+  [Unreal Engine Marketplace]() 
 
-<!--  ### :file_folder: Fullstack Projects:
- <div align="center">
-<p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
- </p>
-
-
-  [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://auto.heff.world/)
-  [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://www.heff.tv/)
-  
- </div> -->
+ #### Open Source
  
+</details> 
+-->
+
  ### :chart_with_upwards_trend: My Github stats:
  <div align="center">
  
@@ -116,7 +133,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjheffernan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
-
 <h3>:iphone: Connect with me:</h3>
 <div align="center">
  
@@ -132,7 +148,7 @@
 
 </div>
 
-<!---
+<!--
 jjheffernan/jjheffernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
@@ -151,4 +167,4 @@ You can click the Preview link to take a look at your changes.
 icons:
 https://github.com/devicons/devicon/tree/master/icons
 
---->
+-->
