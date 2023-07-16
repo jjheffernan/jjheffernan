@@ -45,8 +45,7 @@
   ## 💻 Tech Stack Experience
  
  </summary>
- <br>
- 
+
  #### Front End Technologies
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
