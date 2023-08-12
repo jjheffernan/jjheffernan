@@ -23,7 +23,7 @@
  <div align="center">
   
   [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://auto.heff.world/)
-  [Github Project link](add here when good enough to showcase]()
+  [Github Project link](add here when MVP is hosted]()
   
   [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://www.heff.tv/)
   [Github Project link](add when no longer private)
@@ -34,7 +34,7 @@
  
  <div align="center">
   
-  add companies/projects here
+  add publicly contracted companies/projects here
   
  </div> 
  </details>
@@ -84,25 +84,25 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
  </p>
  --> 
- <!--
+ 
  #### 3D Design Software
  <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
- ADD SOLIDWORKS 
+<!--  ADD SOLIDWORKS 
  ADD INVENTOR
- ADD FUSION360
- ADD ONSHAPE
+ ADD FUSION360 -->
+ <img src="https://www.svgrepo.com/show/518297/onshape.svg" width="55"/>
  </p>
- --> 
+ 
  
  #### Microcontrollers & Systems Development
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
- <!-- add rust: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/> -->
+ <!-- add rust: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="55"/> -->
  </p>
 </details>
 
@@ -118,7 +118,8 @@
  </p>
   
  #### Game Development
-  [Unreal Engine Marketplace]() 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="55"/> 
+
 
  #### Open Source
  
