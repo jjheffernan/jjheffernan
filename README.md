@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at Heff TV, LLC a Heff.industries company
 - 🌱 I’m currently learning NextJS, React, TailwindCSS, and ThreeJS (through R3F)<!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL -->
 - 📫 How to reach me: 
-  - **[jheffmedia@gmail.com](mailto:jheffmedia@gmail.com)** (Personal)
+  - **[jjcodes@icloud.com](mailto:jjcodes@icloud.com)** (Personal)
   - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
 - 👀 I’m interested in Systems Engineering, Software Development, Mechanical Design and more!
 <!--  
