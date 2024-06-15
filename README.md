@@ -7,7 +7,7 @@
 ### About Me:
 - ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022. Zipcode Wilmington Data 3.1 Cohort
 - 🔭 I’m currently working at Heff TV, LLC a Heff.industries company
-- 🌱 I’m currently learning NextJS, React, TailwindCSS, and ThreeJS (through R3F)<!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL -->
+- 🌱 I’m currently learning Rust, R3F, BlenderPy, and gRPC! <!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL; NextJS, React, TailwindCSS, and ThreeJS (through R3F) -->
 - 📫 How to reach me: 
   - **[jjcodes@icloud.com](mailto:jjcodes@icloud.com)** (Personal)
   - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
