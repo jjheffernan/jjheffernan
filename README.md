@@ -133,8 +133,13 @@
  
 </details> 
 -->
-
- ### :chart_with_upwards_trend: My Github stats:
+<details open>
+ <summary>
+  
+ ## :chart_with_upwards_trend: My Github stats:
+ 
+ 
+ </summary>
  <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjheffernan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) 
@@ -157,6 +162,7 @@
  [![image](https://img.shields.io/github/followers/jjheffernan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jjheffernan/)
 
 </div>
+</details>
 
 <!--
 jjheffernan/jjheffernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
