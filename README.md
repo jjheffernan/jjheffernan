@@ -89,6 +89,7 @@
  <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
+ <img src="https://www.svgrepo.com/show/508968/solidworks.svg" width="55"/>
 <!--  ADD SOLIDWORKS 
  ADD INVENTOR
  ADD FUSION360 -->
