@@ -9,8 +9,8 @@
 - 🔭 I’m currently working at Heff TV, LLC a Heff.industries company
 - 🌱 I’m currently learning Rust, R3F, BlenderPy (bpy & Blender API), and gRPC! <!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL; NextJS, React, TailwindCSS, and ThreeJS (through R3F) -->
 - 📫 How to reach me: 
-  - **[jjcodes@icloud.com](mailto:jjcodes@icloud.com)** (Personal)
-  - **[jj@heff.tv](mailto:jj@heff.tv)** (Business)
+  - **[jjcodes@icloud.com](mailto:jjcodes@icloud.com)**
+  - **[professional inquiries](mailto:support@heff.industries)** 
 - 👀 I’m interested in Systems Engineering, Software Development, Mechanical Design and more!
 <!--  
 <details>
@@ -25,7 +25,7 @@
   [<img src="https://i.imgur.com/ggaxN9V.jpg" width="250" height="200"/>](https://auto.heff.world/)
   [Github Project link](add here when MVP is hosted]()
   
-  [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://www.heff.tv/)
+  [<img src="https://i.imgur.com/EXoqslQ.png" width="250" height="200"/>](https://animalgarage.net/)
   [Github Project link](add when no longer private)
   
  </div> 
@@ -127,6 +127,12 @@
   
  #### Game Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="55"/> 
+  # add unity
+  # add metahammer
+  # add godot bridge
+
+
+
 
 
  #### Open Source
