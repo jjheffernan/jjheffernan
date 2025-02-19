@@ -6,7 +6,7 @@
 
 ### About Me:
 - ⚙️ Bachelors degree in mechanical engineering, certified EiT as of 2022. Zipcode Wilmington Data 3.1 Cohort
-- 🔭 I’m currently working at Heff TV, LLC a Heff.industries company
+- 🔭 I’m currently working at Animal Garage, a Heff.industries company
 - 🌱 I’m currently learning Rust, R3F, BlenderPy (bpy & Blender API), and gRPC! <!-- OLD Learning experience: PySpark, SQLAlchemy, Kafka, Numpy/Pandas, HTML, Javascript, and a little PostgreSQL; NextJS, React, TailwindCSS, and ThreeJS (through R3F) -->
 - 📫 How to reach me: 
   - **[jjcodes@icloud.com](mailto:jjcodes@icloud.com)**
@@ -34,7 +34,7 @@
  
  <div align="center">
   
-  add publicly contracted companies/projects here
+  add publicly contracted DEMO's ONLY
   
  </div> 
  </details>
